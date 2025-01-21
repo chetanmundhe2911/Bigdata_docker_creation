@@ -11,3 +11,8 @@ print(data.describe())
 # Show a sample
 print("\nSample Data:")
 print(data.head())
+
+
+# Show a sample
+print("\nSample Data:")
+print(data.sample())
